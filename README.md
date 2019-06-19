@@ -20,6 +20,8 @@
     chmod +x install_ubuntu.sh
     ./install_ubuntu.sh
     
+some problems with poetry on jetson
+    
 #### Docker (run natively if you can)
 [Dockerfile](https://github.com/jordanosborn/CrowdAnalysisDDM/raw/master/code/docker/Dockerfile)
 
